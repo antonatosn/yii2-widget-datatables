@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/mit-license.php The MIT License (MIT)
  * @package yii2-widget-datatables
  */
-namespace fedemotta\datatables;
+namespace nanto\datatables;
 
 use yii\helpers\Json;
 use yii\helpers\ArrayHelper;

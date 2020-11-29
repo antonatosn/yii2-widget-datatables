@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/mit-license.php The MIT License (MIT)
  * @package yii2-widget-datatables
  */
-namespace fedemotta\datatables;
+namespace nanto\datatables;
 use yii\web\AssetBundle;
 
 /**
@@ -26,6 +26,6 @@ class DataTablesBootstrapAsset extends AssetBundle
 
     public $depends = [
         'yii\web\JqueryAsset',
-        'fedemotta\datatables\DataTablesAsset',
+        'nanto\datatables\DataTablesAsset',
     ];
 }

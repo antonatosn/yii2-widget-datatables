@@ -21,7 +21,7 @@ once for all. The second command installs the datatables widget.
 You can also add (instead of the second command):
 
 ```
-"fedemotta/yii2-widget-datatables": "*"
+"nanto/yii2-widget-datatables": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -91,7 +91,7 @@ You can also use DataTables in the JavaScript layer of your application. To achi
 ```php
 public $depends = [
 ...
-'fedemotta\datatables\DataTablesAsset',
+'nanto\datatables\DataTablesAsset',
 ...
 ];
 ```

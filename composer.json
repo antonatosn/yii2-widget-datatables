@@ -1,13 +1,13 @@
 {
-    "name": "fedemotta/yii2-widget-datatables",
+    "name": "nanto/yii2-widget-datatables",
     "description": "DataTables widget for Yii2",
     "type": "yii2-extension",
     "minimum-stability": "stable",
     "keywords": ["yii2","extension","jquery","datatables","table","javascript","library"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/fedemotta/yii2-widget-datatables/issues?state=open",
-        "source": "https://github.com/fedemotta/yii2-widget-datatables"
+        "issues": "https://github.com/antonatosn/yii2-widget-datatables/issues?state=open",
+        "source": "https://github.com/antonatosn/yii2-widget-datatables"
     },
     "authors": [
         {
@@ -17,8 +17,8 @@
     ],
     "require": {
         "yiisoft/yii2":"*",
-        "bower-asset/jquery":">= 1.7.0",
-        "bower-asset/datatables":">= 1.9.4",
+        "bower-asset/jquery":"*",
+        "bower-asset/datatables":"*",
         "bower-asset/datatables-bootstrap3":"*",        
         "bower-asset/datatables-tabletools":"*"        
     },
